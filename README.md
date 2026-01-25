@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🪄 I’m currently working on<br>🔧 Salesforce Development – Apex, LWC, and Sales and Service Cloud projects<br><br>🤝 I’m looking to collaborate on<br>🔗 Innovative Salesforce solutions, integrations, and automation projects<br><br>💡 I’m looking for help with<br>⚙️ Advanced Salesforce architecture patterns and complex Flow automation<br><br>🌱 I’m currently learning<br>📚 Salesforce CPQ, Einstein Analytics, and advanced Lightning Web Components<br><br>💬 Ask me about<br>🗣️ Salesforce best practices, trigger frameworks, data model optimization and interview guidance<br><br>⚡ Fun fact<br>🚀 Salesforce was founded in 1999 and pioneered the SaaS CRM industry<br><br>💡Other tools I have worked on<br>💡PHP Laravel, Angular, React, Embedded systems Arduino 
+🪄 I’m currently working on<br>🔧 Tech Lead in Salesforce Domin – Apex, LWC, and Sales and Service Cloud projects<br><br>🤝 I’m looking to collaborate on<br>🔗 Innovative Salesforce solutions, integrations, and automation projects<br><br>💡 I’m looking for help with<br>⚙️ Advanced Salesforce architecture patterns and complex Flow automation<br><br>🌱 I’m currently learning<br>📚 Salesforce CPQ, Einstein Analytics, and advanced Lightning Web Components<br><br>💬 Ask me about<br>🗣️ Salesforce best practices, trigger frameworks, data model optimization and interview guidance<br><br>⚡ Fun fact<br>🚀 Salesforce was founded in 1999 and pioneered the SaaS CRM industry<br><br>💡Other tools I have worked on<br>💡PHP Laravel, Angular, React, Embedded systems Arduino 
 
 
 ## 🌐 Socials:
